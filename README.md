@@ -1,4 +1,4 @@
-# M291-2024/2025
+# M291-2025
 
 # Richtlinien für die Ordnerstruktur und Code-Konventionen
 
